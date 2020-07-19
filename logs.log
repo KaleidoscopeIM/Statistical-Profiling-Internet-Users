@@ -1,0 +1,67 @@
+C:\Users\imgau\AppData\Local\Programs\Python\Python37\python.exe "C:/Users/imgau/OneDrive - University of South Florida/Information security/Final Project/prj_infosec/main.py"
+Execution step 1 started at: 2020-04-24 01:50:32.273825
+['./files\\ajb9b3.xlsx', './files\\ajdqnf.xlsx', './files\\amsh7c.xlsx', './files\\bay6g7.xlsx', './files\\cjdk88.xlsx', './files\\ctkbn4.xlsx', './files\\dlokv6.xlsx', './files\\dsdxd8.xlsx', './files\\dtqb7d.xlsx', './files\\elnfhc.xlsx', './files\\habc8.xlsx', './files\\hemmb2.xlsx', './files\\hmnhx4.xlsx', './files\\hnldm2.xlsx', './files\\jac345.xlsx', './files\\jahq76.xlsx', './files\\jdf5g4.xlsx', './files\\jfk535.xlsx', './files\\jhgn9c.xlsx', './files\\jkn7fc.xlsx', './files\\jlgwxc.xlsx', './files\\jlkm94.xlsx', './files\\jmd5h8.xlsx', './files\\jrrgxf.xlsx', './files\\kab5zb.xlsx', './files\\kah89f.xlsx', './files\\kdcncc.xlsx', './files\\kedgm9.xlsx', './files\\krh5f5.xlsx', './files\\lms8m4.xlsx', './files\\lpnb79.xlsx', './files\\mjpg95.xlsx', './files\\mmg9n6.xlsx', './files\\mtf7w2.xlsx', './files\\mwwcn6.xlsx', './files\\ngtp8b.xlsx', './files\\nhm2p3.xlsx', './files\\njd5zf.xlsx', './files\\nm8c7.xlsx', './files\\oro26b.xlsx', './files\\pecxc9.xlsx', './files\\pt7td.xlsx', './files\\rrg3md.xlsx', './files\\sanfz9.xlsx', './files\\sbpc42.xlsx', './files\\smdvw5.xlsx', './files\\tah5z2.xlsx', './files\\tcdzb7.xlsx', './files\\tjdpzd.xlsx', './files\\tlgdq9.xlsx', './files\\vvmmvd.xlsx', './files\\wahbf.xlsx', './files\\wgocnc.xlsx', './files\\zws2p8.xlsx']
+_______  file: ./files\ajb9b3.xlsx  complete at 2020-04-24 01:50:53.020834_______ processing: 1 out of 54
+_______  file: ./files\ajdqnf.xlsx  complete at 2020-04-24 01:50:56.669026_______ processing: 2 out of 54
+_______  file: ./files\amsh7c.xlsx  complete at 2020-04-24 01:53:05.246983_______ processing: 3 out of 54
+_______  file: ./files\bay6g7.xlsx  complete at 2020-04-24 01:53:12.940495_______ processing: 4 out of 54
+_______  file: ./files\cjdk88.xlsx  complete at 2020-04-24 01:53:32.889896_______ processing: 5 out of 54
+_______  file: ./files\ctkbn4.xlsx  complete at 2020-04-24 01:54:19.818387_______ processing: 6 out of 54
+_______  file: ./files\dlokv6.xlsx  complete at 2020-04-24 01:55:15.930031_______ processing: 7 out of 54
+_______  file: ./files\dsdxd8.xlsx  complete at 2020-04-24 01:55:55.681655_______ processing: 8 out of 54
+_______  file: ./files\dtqb7d.xlsx  complete at 2020-04-24 01:55:56.311033_______ processing: 9 out of 54
+_______  file: ./files\elnfhc.xlsx  complete at 2020-04-24 01:55:59.805476_______ processing: 10 out of 54
+_______  file: ./files\habc8.xlsx  complete at 2020-04-24 01:55:59.975022_______ processing: 11 out of 54
+_______  file: ./files\hemmb2.xlsx  complete at 2020-04-24 01:56:38.628962_______ processing: 12 out of 54
+_______  file: ./files\hmnhx4.xlsx  complete at 2020-04-24 01:57:08.197427_______ processing: 13 out of 54
+_______  file: ./files\hnldm2.xlsx  complete at 2020-04-24 01:57:15.237323_______ processing: 14 out of 54
+_______  file: ./files\jac345.xlsx  complete at 2020-04-24 01:57:25.368047_______ processing: 15 out of 54
+_______  file: ./files\jahq76.xlsx  complete at 2020-04-24 01:57:25.755000_______ processing: 16 out of 54
+_______  file: ./files\jdf5g4.xlsx  complete at 2020-04-24 01:58:55.184004_______ processing: 17 out of 54
+_______  file: ./files\jfk535.xlsx  complete at 2020-04-24 01:59:07.674677_______ processing: 18 out of 54
+_______  file: ./files\jhgn9c.xlsx  complete at 2020-04-24 02:00:40.136862_______ processing: 19 out of 54
+_______  file: ./files\jkn7fc.xlsx  complete at 2020-04-24 02:01:49.528245_______ processing: 20 out of 54
+_______  file: ./files\jlgwxc.xlsx  complete at 2020-04-24 02:02:17.561926_______ processing: 21 out of 54
+_______  file: ./files\jlkm94.xlsx  complete at 2020-04-24 02:02:58.006594_______ processing: 22 out of 54
+_______  file: ./files\jmd5h8.xlsx  complete at 2020-04-24 02:03:26.898615_______ processing: 23 out of 54
+_______  file: ./files\jrrgxf.xlsx  complete at 2020-04-24 02:03:48.394035_______ processing: 24 out of 54
+_______  file: ./files\kab5zb.xlsx  complete at 2020-04-24 02:04:30.006811_______ processing: 25 out of 54
+_______  file: ./files\kah89f.xlsx  complete at 2020-04-24 02:06:14.991433_______ processing: 26 out of 54
+_______  file: ./files\kdcncc.xlsx  complete at 2020-04-24 02:06:35.112243_______ processing: 27 out of 54
+_______  file: ./files\kedgm9.xlsx  complete at 2020-04-24 02:07:15.688581_______ processing: 28 out of 54
+_______  file: ./files\krh5f5.xlsx  complete at 2020-04-24 02:08:38.485411_______ processing: 29 out of 54
+_______  file: ./files\lms8m4.xlsx  complete at 2020-04-24 02:11:15.892250_______ processing: 30 out of 54
+_______  file: ./files\lpnb79.xlsx  complete at 2020-04-24 02:12:26.500444_______ processing: 31 out of 54
+_______  file: ./files\mjpg95.xlsx  complete at 2020-04-24 02:13:22.099736_______ processing: 32 out of 54
+_______  file: ./files\mmg9n6.xlsx  complete at 2020-04-24 02:14:53.540687_______ processing: 33 out of 54
+_______  file: ./files\mtf7w2.xlsx  complete at 2020-04-24 02:14:54.127204_______ processing: 34 out of 54
+_______  file: ./files\mwwcn6.xlsx  complete at 2020-04-24 02:15:05.339176_______ processing: 35 out of 54
+_______  file: ./files\ngtp8b.xlsx  complete at 2020-04-24 02:15:05.516714_______ processing: 36 out of 54
+_______  file: ./files\nhm2p3.xlsx  complete at 2020-04-24 02:15:12.723225_______ processing: 37 out of 54
+_______  file: ./files\njd5zf.xlsx  complete at 2020-04-24 02:15:19.932877_______ processing: 38 out of 54
+_______  file: ./files\nm8c7.xlsx  complete at 2020-04-24 02:15:39.405851_______ processing: 39 out of 54
+_______  file: ./files\oro26b.xlsx  complete at 2020-04-24 02:16:21.546619_______ processing: 40 out of 54
+_______  file: ./files\pecxc9.xlsx  complete at 2020-04-24 02:17:06.868881_______ processing: 41 out of 54
+_______  file: ./files\pt7td.xlsx  complete at 2020-04-24 02:17:08.659094_______ processing: 42 out of 54
+_______  file: ./files\rrg3md.xlsx  complete at 2020-04-24 02:20:31.192626_______ processing: 43 out of 54
+_______  file: ./files\sanfz9.xlsx  complete at 2020-04-24 02:21:21.707045_______ processing: 44 out of 54
+_______  file: ./files\sbpc42.xlsx  complete at 2020-04-24 02:22:29.869763_______ processing: 45 out of 54
+_______  file: ./files\smdvw5.xlsx  complete at 2020-04-24 02:26:15.114912_______ processing: 46 out of 54
+_______  file: ./files\tah5z2.xlsx  complete at 2020-04-24 02:26:57.266033_______ processing: 47 out of 54
+_______  file: ./files\tcdzb7.xlsx  complete at 2020-04-24 02:27:45.988686_______ processing: 48 out of 54
+_______  file: ./files\tjdpzd.xlsx  complete at 2020-04-24 02:29:02.507241_______ processing: 49 out of 54
+_______  file: ./files\tlgdq9.xlsx  complete at 2020-04-24 02:29:20.314893_______ processing: 50 out of 54
+_______  file: ./files\vvmmvd.xlsx  complete at 2020-04-24 02:29:22.371335_______ processing: 51 out of 54
+_______  file: ./files\wahbf.xlsx  complete at 2020-04-24 02:30:06.589373_______ processing: 52 out of 54
+_______  file: ./files\wgocnc.xlsx  complete at 2020-04-24 02:30:33.342277_______ processing: 53 out of 54
+_______  file: ./files\zws2p8.xlsx  complete at 2020-04-24 02:33:59.351215_______ processing: 54 out of 54
+Total time taken in step 1 is:   43.3546875 minutes
+Execution step 2 started at: 2020-04-24 02:33:59.356231
+P-value average for interval 10 is :0.7042294480231
+P-value average for interval 227 is :0.7077765867516581
+P-value average for interval 300 is :0.7039889668964804
+Total time taken in step 2 is:   3.0494791666666665 minutes
+Execution step 2 completed at: 2020-04-24 02:37:04.006421
+Total execution time of program:     46.40416666666667 minutes
+
+Process finished with exit code 0
