@@ -1,4 +1,3 @@
-# **Gautam Saini (U50159704)**
 
 # The Project
 
